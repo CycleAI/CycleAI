@@ -22,6 +22,4 @@ Perception of risk impedes people from cycling. We aim to build an AI model that
 
 ![Image Segmentation](images/image_segmentation.png)
 
-![Streetview](images/streetview.png)
-
 ![Safety Map](images/safety_map.png)
