@@ -1,4 +1,4 @@
-### CycleAI
+## CycleAI
 
 Perception of risk impedes people from cycling. We aim to build an AI model that automatically estimates a score of perceived safety based on objects in an image. Using Google Street View, a complete map of safety will be affordably created for entire cities, enhancing urban planning and policies.
 
@@ -19,3 +19,19 @@ Perception of risk impedes people from cycling. We aim to build an AI model that
 <a href="https://www.instagram.com/cycle.ai">
         <img alt="CycleAI Instagram" width="22px" src="./images/media/insta.png" />
 </a>
+
+### Object Detection
+
+![](images/object_detection.jpg)
+
+### Image Segmentation
+
+![](images/image_segmentation.jpg)
+
+### Google StreetView
+
+![](images/streetview.jpg)
+
+### Safety Map
+
+![](images/safety_map.jpg)
