@@ -27,5 +27,5 @@ Perception of risk impedes people from cycling. We aim to build an AI model that
 </a>
 
 <a href="https://twitter.com/cycle_ai">
-        <img alt="CycleAI Twitter" width="66px" src="./images/media/twitter.png" />
+        <img alt="CycleAI Twitter" width="44px" src="./images/media/twitter.png" />
 </a>
