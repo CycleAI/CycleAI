@@ -2,9 +2,7 @@
 
 Perception of risk impedes people from cycling. We aim to build an AI model that automatically estimates a score of perceived safety based on objects in an image. Using Google Street View, a complete map of safety will be affordably created for entire cities, enhancing urban planning and policies.
 
-![background](images/team.png)
-
-![background](images/background.jpg)
+![team](images/team.png)
 
 <br/>
 
@@ -22,16 +20,16 @@ Perception of risk impedes people from cycling. We aim to build an AI model that
 
 ### Object Detection
 
-![](images/object_detection.jpg)
+![Object Detection](images/object_detection.png)
 
 ### Image Segmentation
 
-![](images/image_segmentation.jpg)
+![Image Segmentation](images/image_segmentation.png)
 
 ### Google StreetView
 
-![](images/streetview.jpg)
+![Streetview](images/streetview.png)
 
 ### Safety Map
 
-![](images/safety_map.jpg)
+![Safety Map](images/safety_map.png)
