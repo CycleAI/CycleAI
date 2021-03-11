@@ -18,18 +18,10 @@ Perception of risk impedes people from cycling. We aim to build an AI model that
         <img alt="CycleAI Instagram" width="22px" src="./images/media/insta.png" />
 </a>
 
-### Object Detection
-
 ![Object Detection](images/object_detection.png)
-
-### Image Segmentation
 
 ![Image Segmentation](images/image_segmentation.png)
 
-### Google StreetView
-
 ![Streetview](images/streetview.png)
-
-### Safety Map
 
 ![Safety Map](images/safety_map.png)
