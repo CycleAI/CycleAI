@@ -1,0 +1,66 @@
+Bird,0
+Ground Animal,0
+Curb,2587
+Fence,602
+Guard Rail,0
+Barrier,0
+Wall,0
+Bike Lane,0
+Crosswalk - Plain,1328
+Curb Cut,0
+Parking,17970
+Pedestrian Area,0
+Rail Track,0
+Road,127610
+Service Lane,0
+Sidewalk,9111
+Bridge,0
+Building,75052
+Tunnel,0
+Person,0
+Bicyclist,0
+Motorcyclist,0
+Other Rider,0
+Lane Marking - Crosswalk,0
+Lane Marking - General,1078
+Mountain,0
+Sand,0
+Sky,6368
+Snow,297
+Terrain,0
+Vegetation,145236
+Water,0
+Banner,0
+Bench,0
+Bike Rack,0
+Billboard,573
+Catch Basin,0
+CCTV Camera,0
+Fire Hydrant,0
+Junction Box,0
+Mailbox,0
+Manhole,0
+Phone Booth,0
+Pothole,0
+Street Light,12
+Pole,2453
+Traffic Sign Frame,0
+Utility Pole,0
+Traffic Light,258
+Traffic Sign (Back),183
+Traffic Sign (Front),176
+Trash Can,69
+Bicycle,0
+Boat,0
+Bus,416
+Car,18221
+Caravan,0
+Motorcycle,0
+On Rails,0
+Other Vehicle,0
+Trailer,0
+Truck,0
+Wheeled Slow,0
+Car Mount,0
+Ego Vehicle,0
+Unlabeled,0
