@@ -1,6 +1,19 @@
 ## CycleAI
 
-Perception of risk impedes people from cycling. We aim to build an AI model that automatically estimates a score of perceived safety based on objects in an image. Using Google Street View, a complete map of safety will be affordably created for entire cities, enhancing urban planning and policies.
+Cycling has multiple environmental and health benefits. By reducing the emission of greenhouse gases and promoting more active lifestyles, it contributes for more sustainable cities. Although, perception of risk impedes people from cycling.
+
+
+First, we aim to build an AI model to estimate a score of perceived road safety based on the objects in an image. Using Google Street View, a map of safety will be affordably created for entire cities, enhancing urban planning and policies.
+
+
+Second, we will create the first assistive driving software for micromobility vehicles. Most of the accidents involving bikes and scooters are due to crashes with motorized vehicles or pedestrians. Scanning in real time and 360 degrees the surroundings, the most threatening objects (cars, motorcycles, trucks and pedestrians) are identified with > 95% accuracy and actions can be triggered avoiding those collisions. 5G will allow us to leverage the latest computing technology and perform object detection in the cloud with state-of-the-art accuracy and very low latency, enabling real-time performance. This way, no video processing hardware required, and the energy consumption associated to the operation of these vehicles can be reduced. From the user experience perspective, they need to be slim (weight and volume), consequently, it is crucial to reduce the amount of hardware to the minimum (unlike in cars where local video processing is an option). Similarly to the actual shared bicycle and scooter services (e.g.: Jump and Lime), 5G will be the first available in the biggest cities due to the very high density of cells needed to achieve reliable signal coverage. This makes our application to be one of the first to benefit from this technology.
+
+
+Our first and second solutions are well interconnected. Having the maps of safety, we will be able to integrate a route planner service with a layer of safety while suggesting routes in the apps of these shared micromobility vehicles. As well as anticipating areas of higher treat and provide real-time feedback to the rider, even before the detection of dangerous objects in the surroundings.
+
+
+![image](https://user-images.githubusercontent.com/37596597/113760354-05f1c880-970e-11eb-9fdc-7ac32d25f3e8.png)
+
 
 ![team](images/team.png)
 
