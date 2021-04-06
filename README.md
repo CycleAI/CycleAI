@@ -21,8 +21,6 @@ Our first and second solutions are well interconnected. Having the maps of safet
 
 ![Image Segmentation](images/image_segmentation.png)
 
-![Safety Map](images/safety_map.png)
-
 <br/>
 
 <a href="https://www.linkedin.com/company/cycleai">
