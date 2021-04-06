@@ -1,5 +1,7 @@
 ## CycleAI
 
+### Empowering 🚴 in fighting for their own safety through AI.
+
 Cycling has multiple environmental and health benefits. By reducing the emission of greenhouse gases and promoting more active lifestyles, it contributes for more sustainable cities. Although, perception of risk impedes people from cycling.
 
 
