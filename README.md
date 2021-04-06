@@ -13,7 +13,7 @@ Second, we will create the first assistive driving software for micromobility ve
 
 Our first and second solutions are well interconnected. Having the maps of safety, we will be able to integrate a route planner service with a layer of safety while suggesting routes in the apps of these shared micromobility vehicles. As well as anticipating areas of higher treat and provide real-time feedback to the rider, even before the detection of dangerous objects in the surroundings.
 
-[Luís Rita (Data Scientist)](https://www.linkedin.com/in/luisdrita/) | [Miguel Peliteiro (Medical Doctor)](https://www.linkedin.com/in/miguelspeliteiro/) | [Codrin Bostan (Web Developer)](https://www.linkedin.com/in/tudor-codrin-bostan-86106380/) | [Gonçalo Moreno (Machine Learning Engineer)](https://www.linkedin.com/in/goncalomoreno/)
+[Luís Rita](https://www.linkedin.com/in/luisdrita/) (Data Scientist) | [Miguel Peliteiro](https://www.linkedin.com/in/miguelspeliteiro/) (Medical Doctor) | [Codrin Bostan](https://www.linkedin.com/in/tudor-codrin-bostan-86106380/) (Web Developer) | [Gonçalo Moreno](https://www.linkedin.com/in/goncalomoreno/) (Machine Learning Engineer)
 
 <br/>
 
