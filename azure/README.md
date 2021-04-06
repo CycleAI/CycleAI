@@ -12,4 +12,4 @@ The file `inference.py` requires as arguments first the folder with the images a
 python3 inference.py ./images_pixels/ ./sorted_imgs.txt 
 ```
 
-The models will be trained and sent to the WANDB dashboard along with the weights. 
+The models will be trained and sent to the [WANDB dashboard](https://wandb.ai/gonvas_/cycleai?workspace=user-warcraft12321) along with the weights. 
