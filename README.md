@@ -34,7 +34,3 @@ Our first and second solutions are well interconnected. Having the maps of safet
 <a href="https://www.instagram.com/cycle.ai">
         <img alt="CycleAI Instagram" width="22px" src="./images/media/insta.png" />
 </a>
-
-<a href="https://twitter.com/cycle_ai">
-        <img alt="CycleAI Twitter" width="44px" src="./images/media/twitter.png" />
-</a>
