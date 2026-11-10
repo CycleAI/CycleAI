@@ -1,36 +1,34 @@
-## CycleAI
+# CycleAI · original prototype and project history
 
-### Empowering 🚴 in fighting for their own safety through AI.
+CycleAI develops research and tools for cycling safety using crowdsourced
+judgements, street-view imagery and machine learning. This repository contains
+the early project materials and a model-training prototype.
 
-Cycling has multiple environmental and health benefits. By reducing the emission of greenhouse gases and promoting more active lifestyles, it contributes for more sustainable cities. Although, perception of risk impedes people from cycling.
+**Looking for the London studies?** Start with the two dedicated paper repositories:
 
+- [Paper 1: cycling safety perception with vision-language models](https://github.com/CycleAI/Cycle-Safety-Perception-VLM).
+- [Paper 2: cyclist crash severity in Greater London](https://github.com/CycleAI/London-Cyclist-Crash-Severity-Prediction).
 
-First, we aim to build an AI model to estimate a score of perceived road safety based on the objects in an image. Using Google Street View, a map of safety will be affordably created for entire cities, enhancing urban planning and policies.
+The [CycleAI organization profile](https://github.com/CycleAI) is the catalogue of
+public research, Lisbon route-planning work and exploratory viewers.
 
+## What is in this repository
 
-Second, we will create the first assistive driving software for micromobility vehicles. Most of the accidents involving bikes and scooters are due to crashes with motorized vehicles or pedestrians. Scanning in real time and 360 degrees the surroundings, the most threatening objects (cars, motorcycles, trucks and pedestrians) are identified with > 95% accuracy and actions can be triggered avoiding those collisions. 5G will allow us to leverage the latest computing technology and perform object detection in the cloud with state-of-the-art accuracy and very low latency, enabling real-time performance. This way, no video processing hardware required, and the energy consumption associated to the operation of these vehicles can be reduced. From the user experience perspective, they need to be slim (weight and volume), consequently, it is crucial to reduce the amount of hardware to the minimum (unlike in cars where local video processing is an option). Similarly to the actual shared bicycle and scooter services (e.g.: Jump and Lime), 5G will be the first available in the biggest cities due to the very high density of cells needed to achieve reliable signal coverage. This makes our application to be one of the first to benefit from this technology.
+| Location | Contents |
+| --- | --- |
+| [azure/](azure/README.md) | Earlier model-training workflow, inference-named training script and image safety ratings. |
+| [images/](images/) | Project illustrations, training imagery and visual materials. |
+| [Original project overview](docs/ORIGINAL_PROJECT_OVERVIEW.md) | Preserved 2021 project vision and contributor attribution. |
+| [LICENSE](LICENSE) | Existing repository licence. |
 
+## Running the early prototype
 
-Our first and second solutions are well interconnected. Having the maps of safety, we will be able to integrate a route planner service with a layer of safety while suggesting routes in the apps of these shared micromobility vehicles. As well as anticipating areas of higher treat and provide real-time feedback to the rider, even before the detection of dangerous objects in the surroundings.
+Read [azure/README.md](azure/README.md) before running the code. It expects an image
+folder and safety-rating text file, and describes training and logging to Weights
+& Biases. Configure your own environment and service access. This older workflow
+is separate from the two London paper packages and is not their reproduction entry point.
 
-[Luís Rita](https://www.linkedin.com/in/luisdrita/) (Data Scientist) | [Miguel Peliteiro](https://www.linkedin.com/in/miguelspeliteiro/) (Medical Doctor) | [Codrin Bostan](https://www.linkedin.com/in/tudor-codrin-bostan-86106380/) (Web Developer)
+The original overview's assistive-driving plans and accuracy claims are retained
+as project history. They should not be interpreted as current validated deployment results.
 
-<br/>
-
-![Object Detection](images/object_detection.png)
-
-![Image Segmentation](images/image_segmentation.png)
-
-<br/>
-
-<a href="https://www.linkedin.com/company/cycleai">
-        <img alt="CycleAI LinkedIn" width="22px" src="./images/media/link.png" />
-</a> &nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/CycleAI">
-        <img alt="CycleAI Facebook" width="22px" src="./images/media/face.png" />
-</a> &nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/cycle.ai">
-        <img alt="CycleAI Instagram" width="22px" src="./images/media/insta.png" />
-</a>
+[Website](https://www.cycleai.net) · [LinkedIn](https://www.linkedin.com/company/cycleai) · [Contact](mailto:contact@cycleai.net)
